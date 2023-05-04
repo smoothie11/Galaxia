@@ -1,0 +1,44 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  background-color: #00FFB2;
+}
+
+canvas {
+  display: block;
+}
+
+h1 {
+  color: rgb(255, 0, 0);
+}
+
+h2 {
+  font-style: italic;
+  font-size: 25px;
+  color: rgb(255, 0, 221);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+
+
+.p1 {
+  color: #5D00FF;
+  font-size: large;
+}
+
+.p2 {
+  color: #FF00E4;
+}
+
+.p3 {
+  color: #F90000;
+}
+
+
+
+.image {
+  display: block;
+  margin: auto;
+
+}
